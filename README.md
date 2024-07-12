@@ -1,4 +1,4 @@
-# ENCRYPTIX---ML_intern
+# ENCRYPTIX---ML_Internship_Tasks_Assigned
 Encryptix Internship Program - Machine Learning
 <br>
 TASK 1 - A machine learning model that can predict the genre of a movie based on its plot summary or other textual information. Made using techniques like TF-IDF or word embeddings with classifiers such as Naive Bayes, Logistic Regression, or Support Vector Machines.
